@@ -1,0 +1,1 @@
+creates gukan1.txt file
